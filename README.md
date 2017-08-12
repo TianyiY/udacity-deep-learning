@@ -1,5 +1,5 @@
 # udacity-deep-learning
-Image classification using deep learning 
+Image classification using deep learning (CNN)
 
 Classified images from the CIFAR-10 dataset, which consists of airplanes, dogs, cats, and other objects. 
 Preprocessed the images, then trained a convolutional neural network on all the samples. 
